@@ -33,6 +33,9 @@ MongoDB
 
 ## Features
 This app features inserting, reading, and updating data in a MongoDB database.
+1. Need to move components to the src folder
+2. Provied the history of the user transactions
+3. Enhance the UI/UX experience
 
 ## MIT License
 Copyright (c) 2021 Logan S
