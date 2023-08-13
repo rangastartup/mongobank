@@ -35,7 +35,7 @@ MongoDB
 This app features inserting, reading, and updating data in a MongoDB database.
 
 ## MIT License
-Copyright (c) 2021 Russell Propert
+Copyright (c) 2021 Logan S
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
