@@ -18,7 +18,7 @@ Use the web browser to navigate to this URL:
 http://localhost:3000
 
 ## Screen Capture
-![create account](https://github.com/russellpropert/bank-app-with-mongodb/blob/main/bank-app-with-mongodb.gif) 
+![create account](https://github.com/rangastartup/mongobank/blob/main/bank-app-with-mongodb.gif) 
 
 
 ## Technology used:
