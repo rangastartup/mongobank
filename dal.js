@@ -1,6 +1,7 @@
 const MongoClient = require('mongodb').MongoClient;
 const ObjectId = require('mongoose').Types.ObjectId
-const url = 'mongodb://localhost:27017';
+//const url = 'mongodb://localhost:27017';
+const url = process.env.DB_URI;
 let db = null;
 let users = null;
 
